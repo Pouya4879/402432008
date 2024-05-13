@@ -3,5 +3,4 @@ using name space std;
 main()
 {
     cout<<"hello world!";
-
 }
